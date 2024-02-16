@@ -1,2 +1,2 @@
-# MyAzureCloudJourney
-Repository where my Azure Journey is described. Learning Paths, certifications, experiences in Azure
+# AZ-900 Azure Fundamentals
+Course of AZ-900 Fundamentals. We talk about: Cloud Concepts, Azure Architecture & services & Azure management and governance
